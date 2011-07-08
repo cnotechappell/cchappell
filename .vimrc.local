@@ -1,2 +1,3 @@
+set hidden
 map <Leader>w :set wrap!<CR>
 colorscheme railscasts
