@@ -1,1 +1,4 @@
+set hidden
+set guioptions=aAce
+set keymodel-=stopsel
 colorscheme railscasts2
